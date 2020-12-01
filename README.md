@@ -5,12 +5,11 @@
 
 Here are some ideas to get you started:
 
-#This is an <h1> tag creat a new website
-This text will be italic*
-##   This is an <h2> tag your website will be:
-* Itime 1  trustworthy 
-* Itime 2 safe and secure
+#This is an <h1> tag creat a new website*
+## <h2> your website will be:
+* trustworthy 
+* safe and secure
  
- https://www.linkedin.com/ - automatic!
+ https://www.linkedin.com/ 
 
 -->
