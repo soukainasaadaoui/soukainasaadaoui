@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-#This is an <h1> creat a new website
+#<h1> creat a new website
 ## <h2> your website will be:
 * trustworthy 
 * safe and secure
